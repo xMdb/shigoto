@@ -1,0 +1,9 @@
+/*
+This file is used for utility styles that are impossible to use or annoying in Chakra UI.
+*/
+
+/* Scroll Behavior */
+/* *,
+html {
+	scroll-behavior: smooth !important;
+} */
